@@ -1,0 +1,46 @@
+/*NAVIGATION BAR */
+#navigation{
+    background-color: #B10DC9;
+}
+.container-fluid{
+    padding: 3% 10% 3%;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 6px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight:350;
+}
+.navbar-collapse
+{
+    text-align: center;
+}
+
+/*SCHEDULE CLASS*/
+.class-schedule
+{
+    padding: 5%;
+}
+.thead-dark
+{
+    background-color: #B10DC9;
+    color: white;
+    text-align: center;
+}
+.table
+{
+    border: black;
+    text-align: center;
+
+}
+.class-schedule-heading
+{
+    text-align: center;
+    padding-bottom: 5%;
+    color: black;
+}

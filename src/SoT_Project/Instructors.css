@@ -1,0 +1,50 @@
+.Jack {
+    width: 260px;
+    height: 200px;
+   
+  }
+  .Carlos {
+    width: 260px;
+    height: 200px;
+  }
+  .Ahmed {
+    width: 260px;
+    height: 200px;
+  }
+  .card-img-top{
+    width: 260px;
+    height: 200px;
+  }
+  .body{
+    background-color: white;
+    /* background-image9, 24, 239: url(assets/Background3.jpg);
+    background-size: 100% 100% ; */
+  }
+  .card-text{
+    color: black;
+  }
+  .head{
+    color: purple;
+    text-align: center;
+  }
+  .row{
+     display: flex;
+     align-items: 'center'; 
+  }
+
+.cardss{
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.bowdy{
+  background-color: none;
+}
+
+.Yes{
+  font-style: Bold;
+  color: black;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
